@@ -26,6 +26,6 @@ Install dependencies using pip:
 pip install -r requirements.txt
 ```
 ##Author
-Satyam Kurum
-B.Tech, NITK Surathkal
-Contact: LinkedIn | Email
+- Satyam Kurum
+- B.Tech, NITK Surathkal
+
