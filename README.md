@@ -25,7 +25,7 @@ Install dependencies using pip:
 ```bash
 pip install -r requirements.txt
 ```
-##Author
+## Author
 - Satyam Kurum
 - B.Tech, NITK Surathkal
 
